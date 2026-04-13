@@ -81,7 +81,6 @@ Libraries and SDKs for implementing feature flags in specific languages without 
 
 ### Go
 
-- [go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - Feature flagging using file-based config with percentage rollouts, targeting, and experimentation.
 - [flipt-server-sdks](https://github.com/flipt-io/flipt-server-sdks) - Server-side SDKs for Flipt feature flag evaluation.
 - [ff4g](https://github.com/pjebs/ff4g) - Minimalist feature flags for Go.
 - [toggle](https://github.com/xchapter7x/toggle) - Simple feature toggles for Go using JSON config.
