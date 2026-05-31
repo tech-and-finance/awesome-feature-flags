@@ -1,6 +1,6 @@
 # Awesome Feature Flags [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of feature flag and feature toggle tools, services, SDKs, and resources for progressive delivery.
+> Feature flag and feature toggle tools, services, SDKs, and resources for progressive delivery.
 
 Feature flags (also called feature toggles) decouple deployment from release. They let you ship code to production and control who sees it — enabling gradual rollouts, kill switches, A/B testing, and instant rollback without redeployment.
 
