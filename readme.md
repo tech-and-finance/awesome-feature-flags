@@ -51,6 +51,7 @@ Feature flags (also called feature toggles) decouple deployment from release. Th
 - [Molasses](https://www.molasses.app) - Feature flags and A/B testing service for backend and mobile apps.
 - [Prefab](https://prefab.cloud) - Feature flags, dynamic log levels, and remote config as a service.
 - [Flagship](https://flagship.io) - Feature management and experimentation platform for web and mobile.
+- [Zenmanage](https://zenmanage.com) - Feature management platform with progressive rollouts, targeting and segments, remote config, and scoped access controls with immutable audit history. Free tier available; paid plans from $29/month.
 
 ### Open Source (Self-Hosted)
 
